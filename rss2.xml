@@ -9,7 +9,7 @@
     <atom:link href="https://blog.yhehe.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>记录生活的，分享学习的</description>
-    <pubDate>Thu, 17 Apr 2025 16:45:54 GMT</pubDate>
+    <pubDate>Fri, 18 Apr 2025 16:42:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -170,9 +170,9 @@
       <category domain="https://blog.yhehe.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
       
       
-      <category domain="https://blog.yhehe.com/tags/hugo/">hugo</category>
-      
       <category domain="https://blog.yhehe.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.yhehe.com/tags/hugo/">hugo</category>
       
       
       <comments>https://blog.yhehe.com/%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E5%9C%A8%E5%87%A0%E5%88%86%E9%92%9F%E5%86%85%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%20Hugo%20FixIt%E7%AB%99%E7%82%B9%E3%80%82/#disqus_thread</comments>
